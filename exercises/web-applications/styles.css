@@ -1,4 +1,23 @@
-h1 {
-    color: hwb(0 0% 0%);
-    
+hi {
+    font-size: 30px;
+  
+  }
+  #check{
+   font-weight: bolder;
+   font-size: large;
+   text-align: center;
+   background-color: rgb(52, 119, 234);
+   -webkit-text-fill-color: cornsilk;
+  }
+
+  #col{
+    -webkit-text-fill-color: rgb(245, 18, 33);
+  }
+
+  body {
+text-align:start
+  }
+
+  pos {
+   position:absolute
   }
